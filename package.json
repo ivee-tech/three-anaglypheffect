@@ -1,0 +1,26 @@
+{
+  "name": "three-anaglypheffect",
+  "version": "1.0.0",
+  "description": "The THREEJS Anaglyph Effect as npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivee-tech/three-anaglypheffect.git"
+  },
+  "keywords": [
+    "3D",
+    "THREE",
+    "JS",
+    "VR",
+    "Anaglyph"
+  ],
+  "author": "ivee-tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivee-tech/three-anaglypheffect/issues"
+  },
+  "homepage": "https://github.com/ivee-tech/three-anaglypheffect#readme"
+}
